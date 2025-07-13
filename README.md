@@ -1,9 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
   <a href="https://linkedin.com/in/jaipal-singh-7b9639255" target="_blank">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Jaipal Singh Banner"/>
+    <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="100%" alt="Jaipal Singh Forest Banner"/>
   </a>
 </p>
+
 
 
 <h1 align="center">Hey there, I'm Jaipal Singh 👋</h1>

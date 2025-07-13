@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)](https://linkedin.com/in/jaipal-singh-7b9639255)
+[![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://linkedin.com/in/jaipal-singh-7b9639255)
 
 <h1 align="center">Hi 👋, I'm Jaipal Singh</h1>
 <h3 align="center">A passionate Full Stack Developer & Data Enthusiast from India</h3>

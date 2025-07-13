@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <p align="center">
   <a href="https://linkedin.com/in/jaipal-singh-7b9639255" target="_blank">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Jaipal Singh Banner"/>
+    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="100%" alt="Jaipal Singh Banner"/>
   </a>
 </p>
 
@@ -111,4 +111,3 @@
 - 🧠 Competitive programming fan & regular hackathon participant  
 
 ---
-

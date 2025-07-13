@@ -6,10 +6,6 @@
 </p>
 
 
-
-
-
-
 <h1 align="center">Hey there, I'm Jaipal Singh 👋</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Science Enthusiast | 🎯 Lifelong Learner</h3>
 

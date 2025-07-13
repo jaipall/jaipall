@@ -1,9 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
   <a href="https://linkedin.com/in/jaipal-singh-7b9639255" target="_blank">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="100%" alt="Jaipal Singh Banner"/>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Jaipal Singh Banner"/>
   </a>
 </p>
+
 
 <h1 align="center">Hey there, I'm Jaipal Singh 👋</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Science Enthusiast | 🎯 Lifelong Learner</h3>

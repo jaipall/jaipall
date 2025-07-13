@@ -1,9 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
-  <a href="https://linkedin.com/in/jaipal-singh-7b9639255" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="100%" alt="Jaipal Singh Forest Banner"/>
+  <a href="https://github.com/ronak301/react-native-scrollable-header" target="_blank">
+    <img src="https://media.giphy.com/media/1n3kLwcy75DKXG8o4Y/giphy.gif" width="100%" alt="React Native Scrollable Header Demo"/>
   </a>
 </p>
+
 
 
 

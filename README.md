@@ -1,17 +1,16 @@
 <!-- Animated Header -->
 <p align="center">
   <a href="https://linkedin.com/in/jaipal-singh-7b9639255" target="_blank">
-    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%" alt="Jaipal Singh Banner"/>
+    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%" alt="Jaipal Singh Banner" />
   </a>
 </p>
-
 
 <h1 align="center">Hey there, I'm Jaipal Singh 👋</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Science Enthusiast | 🎯 Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/jaipall">
-    <img src="https://komarev.com/ghpvc/?username=jaipall&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=jaipall&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -19,11 +18,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Full Stack Web Apps** & **ML Projects**  
-- 🌱 Exploring **Next.js**, **Docker**, and **Advanced DSA**  
-- 💡 Skilled in **C++, Java, React, SQL**, and **Tableau**  
-- 🧠 Solved **150+ problems** on LeetCode | ⭐ 5-Star in Java on HackerRank  
-- 🎓 Certified in **Machine Learning**, **Cloud Computing**, and **DSA**  
+- 🔭 Currently working on **Full Stack Web Apps** & **ML Projects**
+- 🌱 Exploring **Next.js**, **Docker**, and **Advanced DSA**
+- 💡 Skilled in **C++, Java, React, SQL**, and **Tableau**
+- 🧠 Solved **150+ problems** on LeetCode | ⭐ 5-Star in Java on HackerRank
+- 🎓 Certified in **Machine Learning**, **Cloud Computing**, and **DSA**
 
 ---
 
@@ -31,6 +30,7 @@
 
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
+| ✨ [Blogging Website](https://github.com/jaipall/blogging-website) | MERN-powered role-based blog platform with authentication and admin control |
 | 🔥 [Weather Forecast App](https://github.com/jaipall/weather-app) | React app using OpenWeatherMap API |
 | 🏠 [House Price Predictor](https://github.com/jaipall/house-price-prediction) | ML project using Linear Regression in R |
 | 📇 [Contact Management System](https://github.com/jaipall/contact-manager) | Console-based C++ CRUD application |
@@ -53,26 +53,26 @@
 
 ### 🏅 Certifications
 
-- 📜 Supervised Machine Learning – Coursera  
-- 📜 Cloud Computing – NPTEL  
-- 📜 Data Structures & Algorithms – CipherSchools  
-- 📜 Data Analysis with Tableau – Coursera  
+- 📜 Supervised Machine Learning – Coursera
+- 📜 Cloud Computing – NPTEL
+- 📜 Data Structures & Algorithms – CipherSchools
+- 📜 Data Analysis with Tableau – Coursera
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 1480+ LeetCode Rating  
-- 💻 Solved 150+ problems on LeetCode  
-- 🏅 5-Star Java Coder on HackerRank  
+- 🥇 1480+ LeetCode Rating
+- 💻 Solved 150+ problems on LeetCode
+- 🏅 5-Star Java Coder on HackerRank
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaipall&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaipall&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaipall&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaipall&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaipall&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaipall&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -107,8 +107,8 @@
 
 ### 🎯 Fun Facts
 
-- 💡 I love building tools that solve real-world problems  
-- 📺 I enjoy watching tech breakdowns & coding videos  
-- 🧠 Competitive programming fan & regular hackathon participant  
+- 💡 I love building tools that solve real-world problems
+- 📺 I enjoy watching tech breakdowns & coding videos
+- 🧠 Competitive programming fan & regular hackathon participant
 
 ---

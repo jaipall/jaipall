@@ -27,9 +27,9 @@
 ---
 
 ### 🧩 Featured Projects
-
 | 🔗 Project | 💬 Description |
 |-----------|----------------|
+| 💬 [Quick Chat App](https://github.com/jaipall/quick-chat-app) | Real-time chat application using MERN stack and Socket.IO |
 | ✨ [Blogging Website](https://github.com/jaipall/blogging-website) | MERN-powered role-based blog platform with authentication and admin control |
 | 🔥 [Weather Forecast App](https://github.com/jaipall/weather-app) | React app using OpenWeatherMap API |
 | 🏠 [House Price Predictor](https://github.com/jaipall/house-price-prediction) | ML project using Linear Regression in R |
